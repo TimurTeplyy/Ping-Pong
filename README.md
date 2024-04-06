@@ -8,7 +8,6 @@
 0p      |                                                                 q0
 0b      |                                                                 d0
 0p                               GGGGG                                    q0
-0b                              GGGGGGG                                   d0
 0p                              GGGGGGG                                   q0
 0b                               GGGGG                                    d0 
 0p                                                                   |    q0
